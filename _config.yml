@@ -1,3 +1,5 @@
-theme: jekyll-theme-merlot
-title: İlayda Çelenk's Progress Journal
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Halis Oguz's Progress Journal
 description: This journal is created for IE 582 Fall23.
