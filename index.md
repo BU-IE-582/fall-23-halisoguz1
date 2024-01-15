@@ -10,4 +10,4 @@ The description file for the second homework may be accessed through [this link]
 
 My approach for the second homework may be found [here](files/IE582hw2.html).
 
-My approach for the project homework may be found [here](files/IE582_Project.pdf)
+My approach for the project may be found [here](files/IE582_Project.pdf)
